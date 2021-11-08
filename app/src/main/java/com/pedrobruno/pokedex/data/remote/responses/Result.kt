@@ -1,0 +1,6 @@
+package com.pedrobruno.pokedex.data.remote.responses
+
+data class Result(
+    val name: String,
+    val url: String
+)
